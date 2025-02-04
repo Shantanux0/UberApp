@@ -26,7 +26,7 @@ This is an **Uber-like ride-booking platform** backend built using **Spring Boot
 4. Access the API at:
   http://localhost:8080
 
-##📬 Connect with Me
+## 📬 Connect with Me
 Portfolio: shantanu-kale.vercel.app
 LinkedIn: Shantanu Kale
 GitHub: @Shantanu-Kale
